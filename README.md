@@ -1,4 +1,4 @@
-# RussianElections2021
+# Russian Elections 2021
 Reformatted Data from Russian State "Elections" Information System, regarding 2021 elections to the state parliament
 
 Original dataset was collected by Sergey Shpilkin: [https://www.facebook.com/sergey.shpilkin](https://www.facebook.com/sergey.shpilkin)
